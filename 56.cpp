@@ -4,5 +4,8 @@ using namespace std;
 int main()
 {
 // sadfhg
+int a;
+cin>>a;
+cout<<a;
 return 0;
 }
